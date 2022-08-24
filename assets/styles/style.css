@@ -55,8 +55,7 @@ body {
 }
 
 .titulo-site {
-  background-image: url("assets\img\img-fundo.jpg");
-  background-repeat: no-repeat;
+  background-image: url('assets\styles\fundo.jpg');
   background-size: cover;
   height: 100vh;
 
