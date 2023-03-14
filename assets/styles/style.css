@@ -55,7 +55,7 @@ body {
 }
 
 .titulo-site {
-  background-image: url('assets\styles\fundo.jpg');
+  background-image: url('./fundo.jpeg');
   background-size: cover;
   height: 100vh;
 
@@ -146,6 +146,12 @@ img {
   height: 113px;
   object-fit: cover;
   margin-left: 10px;
+}
+
+.container-rota {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .rodape-copyright {
